@@ -1,0 +1,17 @@
+.\output\serial_drv_stm32.o: ..\..\uC-Serial\serial_drv_stm32.c
+.\output\serial_drv_stm32.o: ..\..\uC-Serial\serial.h
+.\output\serial_drv_stm32.o: ..\..\uC-CPU\cpu.h
+.\output\serial_drv_stm32.o: ..\..\uC-CPU\cpu_def.h
+.\output\serial_drv_stm32.o: ..\..\APP\cpu_cfg.h
+.\output\serial_drv_stm32.o: ..\..\uC-LIB\lib_def.h
+.\output\serial_drv_stm32.o: ..\..\uC-LIB\lib_ascii.h
+.\output\serial_drv_stm32.o: ..\..\uC-LIB\lib_str.h
+.\output\serial_drv_stm32.o: ..\..\APP\lib_cfg.h
+.\output\serial_drv_stm32.o: ..\..\uC-LIB\lib_mem.h
+.\output\serial_drv_stm32.o: ..\..\uC-CPU\cpu_core.h
+.\output\serial_drv_stm32.o: ..\..\uC-LIB\lib_mem.h
+.\output\serial_drv_stm32.o: ..\..\APP\app_cfg.h
+.\output\serial_drv_stm32.o: ..\..\uC-Serial\serial_buf.h
+.\output\serial_drv_stm32.o: ..\..\uC-Serial\serial_type.h
+.\output\serial_drv_stm32.o: ..\..\uC-Serial\serial_line_dflt.h
+.\output\serial_drv_stm32.o: ..\..\uC-Serial\serial_drv_stm32.h

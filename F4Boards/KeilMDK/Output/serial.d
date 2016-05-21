@@ -1,0 +1,17 @@
+.\output\serial.o: ..\..\uC-Serial\serial.c
+.\output\serial.o: ..\..\uC-Serial\serial.h
+.\output\serial.o: ..\..\uC-CPU\cpu.h
+.\output\serial.o: ..\..\uC-CPU\cpu_def.h
+.\output\serial.o: ..\..\APP\cpu_cfg.h
+.\output\serial.o: ..\..\uC-LIB\lib_def.h
+.\output\serial.o: ..\..\uC-LIB\lib_ascii.h
+.\output\serial.o: ..\..\uC-LIB\lib_str.h
+.\output\serial.o: ..\..\APP\lib_cfg.h
+.\output\serial.o: ..\..\uC-LIB\lib_mem.h
+.\output\serial.o: ..\..\uC-CPU\cpu_core.h
+.\output\serial.o: ..\..\uC-LIB\lib_mem.h
+.\output\serial.o: ..\..\APP\app_cfg.h
+.\output\serial.o: ..\..\uC-Serial\serial_buf.h
+.\output\serial.o: ..\..\uC-Serial\serial_type.h
+.\output\serial.o: ..\..\uC-Serial\serial_line_dflt.h
+.\output\serial.o: ..\..\uC-Serial\serial_os.h
