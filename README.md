@@ -1,2 +1,2 @@
 # uC-OSiii_STM32F407
-Test Board is STM32F407,word good
+Test Board is STM32F407,work good,othen Serial Board I didn't test...
